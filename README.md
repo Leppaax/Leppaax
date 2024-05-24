@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋 
+# I'm Leppaax, a second year software development student at tredu, Tampere.
+
+🔭 I’m currently working on school projects and on a smart home automation control panel.
+🌱 I’m currently learning react and other stuff.
+Fun fact: I started to study coding, becouse my old teacher said I have some light inside of me.
 
 <!--
 **Leppaax/Leppaax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
