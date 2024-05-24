@@ -1,5 +1,5 @@
-## Hi there 👋 
-# I'm Leppaax, a second year software development student at tredu, Tampere.
+## Hello fellas 👋 
+### I'm Leppaax, a second year software development student at tredu, Tampere.
 
 🔭 I’m currently working on school projects and on a smart home automation control panel.
 🌱 I’m currently learning react and other stuff.
