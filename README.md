@@ -1,8 +1,8 @@
 ## Hello fellas 👋 
-### I'm Leppaax, a second year software development student at tredu, Tampere.
+### I'm Leppaax, a third year software development student at tredu, Tampere.
 
-- 🔭 I’m currently working on school projects and on a smart home automation control panel.
-- 🌱 I’m currently learning react and other stuff.
+- 🔭 I’m currently working on school projects and on a web screaping with python.
+- 🌱 I’m currently learning Go.
 - ⚡ Fun fact: I started to study coding, becouse my old teacher said I have some light inside of me.
 
 <!--
