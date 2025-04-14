@@ -1,9 +1,24 @@
-## Hello fellas 👋 
+## Hello 👋 
 ### I'm Leppaax, a third year software development student at tredu, Tampere.
 
 - 🔭 I’m currently working on school projects and on a web screaping with python.
 - 🌱 I’m currently learning Go.
-- ⚡ Fun fact: I started to study coding, becouse my old teacher said I have some light inside of me.
+- ⚡ Fun fact: I started coding because a teacher once told me I had a spark — now I'm turning it into full-blown full-stack fire.
+
+-----
+
+### 🛠️ Tech I'm into
+- Backend: Go, Python, PHP, JavaSript
+- Frontend: HTML, CSS, React
+- Database: SQL
+- Testing: Jest, Cypress
+- Tools: Git, Docker, VS Code, Postman
+
+-----
+
+### 📈 Future plans
+- Languages: Java, c++
+- OS: Linux
 
 <!--
 **Leppaax/Leppaax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
