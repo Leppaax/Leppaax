@@ -17,7 +17,7 @@
 -----
 
 ### 📈 Future plans
-- Languages: Java, c++
+- Languages: Java, c++ and solity
 - OS: Linux
 
 <!--
