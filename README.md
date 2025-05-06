@@ -1,7 +1,7 @@
 ## Hello 👋 
 ### I'm Leppaax, a third year software development student at tredu, Tampere.
 
-- 🔭 I’m currently working on school projects and on a web screaping with python.
+- 🔭 I’m currently working on a web screaping with python.
 - 🌱 I’m currently learning Go.
 - ⚡ Fun fact: I started coding because a teacher once told me I had a spark — now I'm turning it into full-blown full-stack fire.
 
